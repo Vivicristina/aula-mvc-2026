@@ -1,1 +1,14 @@
-# aula-mvc-2026
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+    var nome = "José";
+    var idade = 33;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Olá, @nome! Você tem @idade.</p>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web a
+</div>
