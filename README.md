@@ -3,8 +3,8 @@
 }
 
 @{
-    var nome = "Vitoria";
-    var idade = 19;
+    var nome = "josé";
+    var idade = 33;
 }
 
 <div class="text-center">
